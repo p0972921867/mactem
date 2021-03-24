@@ -1,0 +1,5 @@
+.list1{list-style-type:upper-alpha;}
+.list2{list-style-type:none;list-style-image:url("../image/arrow1.png")}
+.border li{
+    line-height:50px;
+}
